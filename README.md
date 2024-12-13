@@ -9,15 +9,15 @@ the home page
 
 
 upload files
-![002042.png](image/002113.png)
+![002113.png](image/002113.png)
 
 
 table check
-![002042.png](image/002138.png)
+![002138.png](image/002138.png)
 
 
 data explore
-![002042.png](image/002202.png)
+![002202.png](image/002202.png)
 
 
 that's all. It's so small.
