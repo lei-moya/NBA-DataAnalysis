@@ -21,33 +21,33 @@ def data_explore(request):
 def explore(data):
     match (data['text']):
         case '前10名球员':
-            return function1(1)
+            return 1
         case '工资分布':
-            return function2(2)
+            return 2
         case '球队排名':
-            return function3(3)
+            return 3
         case '各国在NBA的参与度':
-            return function4(4)
+            return 4
         case '球员的排名和工资的关系':
-            return function5(5)
+            return 5
         case '球员身高和体重的分布':
-            return function6(6)
+            return 6
         case '各球员的评分分布情况':
-            return function7(7)
+            return 7
         case '各队伍人数情况':
-            return function8(8)
+            return 8
         case '各球员身高分布':
-            return function9(9)
+            return 9
         case '各球员体重分布':
-            return function10(10)
+            return 10
         case '各球员工资区间分布情况':
-            return function11(11)
+            return 11
         case '各球员选秀年份分布':
-            return function12(12)
+            return 12
         case '各球员评分和工资的关系':
-            return function13(13)
+            return 13
         case '工资排名':
-            return function14(14)
+            return 14
 
 
 # 前10名球员
