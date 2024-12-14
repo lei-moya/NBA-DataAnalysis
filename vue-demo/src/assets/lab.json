@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "full_name": "LeBron James",
+            "rating": 97,
+            "jersey": "#23",
+            "team": "Los Angeles Lakers",
+            "position": "F",
+            "b_day": "12/30/1984",
+            "height": "6-9 / 2.06",
+            "weight": "250 lbs. / 113.4 kg.",
+            "salary": "$37,436,858 ",
+            "country": "USA",
+            "draft_year": 2003,
+            "draft_round": 1,
+            "draft_peak": 1,
+            "college": "QingHua",
+            "version": "NBA2k20"
+        }
+    ],
+    "rows": 0
+}
