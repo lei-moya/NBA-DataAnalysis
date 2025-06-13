@@ -3,6 +3,9 @@ Small project. Don't spray if you don't like it
 
 The project use vue3 and django
 
+the root of vue3 is vue-demo;
+the root of django is the main
+
 
 the home page
 ![002042.png](image/002042.png)
